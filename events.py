@@ -1,4 +1,4 @@
 def main():
-    pass
+    """Check for known events (empty trying to create merge conflict.)"""
 
 main()
